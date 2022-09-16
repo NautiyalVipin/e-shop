@@ -9,7 +9,8 @@ import { ToastContainer } from "react-toastify";
 
 
 /* ------------------------------------- Component Structure  ------------------------------------
-                            
+ 
+                                   
                                       App--------store(actions,redux store,reducer,localstore)
                                        |
                                      Home--------Navbar
@@ -19,7 +20,6 @@ import { ToastContainer } from "react-toastify";
                 /          \                               \
            ProductDetails  Card                          CartCard
                                                   
-   
                                             
 */
 

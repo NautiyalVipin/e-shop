@@ -136,10 +136,14 @@ This is an ecommerce App made using  React, Redux, CSS and Javascript. It is a r
 
 ## 💻 Screens
 
-![alt text](/src/images/showContact.jpg)
-![alt text](/src/images/editContact.jpg)
-![alt text](/src/images/deleteContact.jpg)
-![alt text](/src/images/newContact.jpg)
+![alt text](/src/assets/images/allProducts.jpg)
+![alt text](/src/assets/images/editHome.jpg)
+![alt text](/src/assets/images/deleteHome.jpg)
+![alt text](/src/assets/images/sort.jpg)
+![alt text](/src/assets/images/prductDetails.jpg)
+![alt text](/src/assets/images/editDetail.jpg)
+![alt text](/src/assets/images/deleteDetail.jpg)
+![alt text](/src/assets/images/cart.jpg)
 
 
 <br/>
