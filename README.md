@@ -35,7 +35,9 @@ This is an ecommerce App made using  React, Redux, CSS and Javascript. It is a r
                            ┣ 📜App.jsx
                            ┗ 📜index.jsx
 
-                         App-----store(actions,redux store,reducer,localstore)
+                        index.jsx-----store(actions,redux store,reducer,localstore)
+                          |
+                         App
                           |
                         Home-----Navbar
          _________________|__________
