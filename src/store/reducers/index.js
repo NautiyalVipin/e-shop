@@ -1,4 +1,5 @@
 import { dataSetter, _products, _cart, dataGetter } from "../localStore"; //localstorage methods and keys
+import { combineReducers } from "redux"; //For combining multiple reducers
 
 // All the action types
 import {
@@ -18,7 +19,7 @@ import {
   DELETE_PRODUCT,
   START_DELETE,
 } from "../actions";
-import { combineReducers } from "redux"; //For combining multiple reducers
+
 
 // Template for a single product object
 const itemBody ={

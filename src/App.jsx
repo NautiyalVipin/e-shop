@@ -11,7 +11,9 @@ import { ToastContainer } from "react-toastify";
 /* ------------------------------------- Component Structure  ------------------------------------
  
                                    
-                                      App--------store(actions,redux store,reducer,localstore)
+                                      index.js--------store(actions,redux store,reducer,localstore)
+                                       |
+                                      App
                                        |
                                      Home--------Navbar
                       _________________|_________________
